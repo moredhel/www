@@ -5,7 +5,7 @@ theme = 'personal-web'
 enableEmoji = true
 
 [params.intro]
-main = "Hamish H"
+main = "Hamish"
 sub = "Cloud Native Engineer, Technical Writer"
 
 [params.main]
