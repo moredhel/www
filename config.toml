@@ -67,7 +67,7 @@ p = "Try again later, or if you think it really should then reach out."
 
 [[menu.main]]
   identifier = "blog"
-  name = "Post"
+  name = "Blog"
   title = "Blog section"
   url = "/post/"
   weight = -100
