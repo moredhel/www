@@ -4,16 +4,23 @@ description: Hamish's Public Profile
 images: ["/images/sample.jpg"]
 ---
 
-Hey,
+Hey, I'm Hamish, a Cloud Engineer and Entrepreneur :wave:
 
-I'm Hamish, a Cloud Engineer and Entrepreneur.
+As a Cloud Engineer I have nearly a decade of experience architecting and implementing cloud infrastructure in Azure, AWS and GCP.
 
-I've previously spent my time founding [Carbon Crowd](https://carboncrowd.io), writing [technical articles](/portfolio/writing/) and consulting with companies on their cloud infrastructure. You can find my CV [here](/misc/cv.pdf).
+As an Entrepreneur I founded **Carbon Crowd**, and was a founding member of the **FikaWorks** collective.
 
-[Or get to know me better](/about "Get to know me better").
+You can find my **[Full CV](/misc/cv.pdf)** here, or head over to my **[blog](/post)** to get to know me better.
 
-Here are a few things I can help you with:
-- Technical Writing
-- Infrastructure Audit & Report
-- Internal Training
-- Cloud Consulting
+### What can I help you with?
+
+- *DevOps pipeline creation*
+- *Infrastructure Audit and Analysis*
+- *Technical Writing*
+- *Internal trainings for Kubernetes, CICD and Terraform*
+- *Cloud Consulting*
+
+# Who I've worked with
+| | | | |
+| --- | --- | --- | --- |
+| ![](/images/companies/adidas.svg) | [![](/images/companies/grandvision.png)](https://grandvision.com/) | [![](/images/companies/esdu_logo.svg)](https://www.esdu.com/) | [![](/images/companies/dfinity.png)](https://www.dfinity.org/)
