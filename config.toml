@@ -1,4 +1,5 @@
-baseURL = 'https://www.drybrough.nl'
+# baseURL = 'https://www.drybrough.nl'
+baseURL = 'https://281d-2001-1c00-1509-4a00-1c21-f6e4-b033-b19f.eu.ngrok.io'
 languageCode = 'en-us'
 title = 'Hamish Hutchings'
 theme = 'personal-web'
@@ -6,10 +7,10 @@ enableEmoji = true
 
 [params.intro]
 main = "Hamish"
-sub = "Cloud Native Engineer, Technical Writer"
+sub = "Cloud Native Engineer, Entrepreneur"
 
 [params.main]
-latestPublishHeader = "Latest Blog Post"
+latestPublishHeader = " "
 
 [taxonomies]
 design = "designs"
@@ -18,7 +19,7 @@ tech = "techs"
 [params]
 # breadcrumb = true
 accentColor = "white"
-mainSections = ["post"]
+mainSections = []
 
 [params.notFound]
 gopher = "/images/profile.jpg"
@@ -37,7 +38,7 @@ p = "Try again later, or if you think it really should then reach out."
   github = "https://github.com/moredhel"
   twitter = "https://twitter.com/hamhut1066"
   linkedin = "https://www.linkedin.com/in/hamish-hutchings-77466149/"
-  # medium = "https://medium.com/"
+  medium = "https://medium.com/@hamish_77593"
   # codepen = "https://codepen.io/"
   # facebook = "https://www.facebook.com/"
   # youtube = "https://www.youtube.com/"
@@ -52,32 +53,25 @@ p = "Try again later, or if you think it really should then reach out."
 [menu]
 
 [[menu.main]]
-  identifier = "about"
-  name = "About"
-  title = "About section"
-  url = "/about/"
-  weight = -120
-
-[[menu.main]]
   identifier = "portfolio"
   name = "Portfolio"
   title = "Portfolio"
   url = "/portfolio/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "cv"
+  name = "CV"
+  title = "Resume"
+  url = "/misc/cv.pdf"
   weight = -110
 
 [[menu.main]]
   identifier = "blog"
   name = "Blog"
   title = "Blog section"
-  url = "/post/"
+  url = "https://medium.com/@hamish_77593"
   weight = -100
-
-[[menu.main]]
-  identifier = "contributions"
-  name = "OS Contributions"
-  title = "Portfolio"
-  url = "/contributions/"
-  weight = -90
 
 [sitemap]
   changefreq = "monthly"

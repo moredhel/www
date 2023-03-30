@@ -1,10 +1,12 @@
 ---
 title: HOME
 description: Hamish's Public Profile
-images: ["/images/sample.jpg"]
+resources:
+- name: header
+  src: /images/posts/watamu_jan_2023.jpg
 ---
 
-Hey, I'm Hamish, a Cloud Engineer and Entrepreneur :wave:
+Hey, I'm Hamish, a Cloud Engineer, Entrepreneur and Paraglider :wave:
 
 As a Cloud Engineer I have nearly a decade of experience architecting and implementing cloud infrastructure in Azure, AWS and GCP.
 
@@ -14,13 +16,20 @@ You can find my **[Full CV](/misc/cv.pdf)** here, or head over to my **[blog](/p
 
 ### What can I help you with?
 
-- *DevOps pipeline creation*
+<!-- - *DevOps pipeline creation*
 - *Infrastructure Audit and Analysis*
 - *Technical Writing*
 - *Internal trainings for Kubernetes, CICD and Terraform*
 - *Cloud Consulting*
+- *Sustainable computing practices* -->
 
-# Who I've worked with
+| Cloud | Entrepreneurship | Research and Writing |
+| :---:            | :---:                  |      :---:                           |
+| Consulting       | Financial Strategy     | Technical writing and product review
+| Sustainability   | Product Strategy       | Community ngagement and outreach
+| CICD             | Systems Architecture   |
+
+### Who I've worked with
 | | | | |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | ![](/images/companies/adidas.svg) | [![](/images/companies/grandvision.png)](https://grandvision.com/) | [![](/images/companies/esdu_logo.svg)](https://www.esdu.com/) | [![](/images/companies/dfinity.png)](https://www.dfinity.org/)
