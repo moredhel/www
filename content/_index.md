@@ -1,16 +1,18 @@
 ---
-title: HOME
+title: "Welcome"
 description: Hamish's Public Profile
 resources:
 - name: header
   src: /images/posts/watamu_jan_2023.jpg
 ---
 
-Hey, I'm Hamish, a Cloud Engineer, Entrepreneur and Paraglider :wave:
+Hey, I'm Hamish, a Cloud Engineer, Entrepreneur and Glider Pilot :wave:
 
 As a Cloud Engineer I have nearly a decade of experience architecting and implementing cloud infrastructure in Azure, AWS and GCP.
 
-As an Entrepreneur I founded **Carbon Crowd**, and was a founding member of the **FikaWorks** collective.
+As an Entrepreneur I founded **Carbon Crowd**, a sustainability technology company focused on measuring and reporting carbon-emissions in corporates.
+
+I am also a founding member of the **FikaWorks** collective. A community of Cloud Native freelancers distributed over the EU.
 
 You can find my **[Full CV](/misc/cv.pdf)** here, or head over to my **[blog](/post)** to get to know me better.
 

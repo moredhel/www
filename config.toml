@@ -28,7 +28,7 @@ p = "Try again later, or if you think it really should then reach out."
 
 [params.sidebar]
   backgroundImage = '/images/background.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
-  gradientOverlay = 'rgba(0,0,0,0.6),rgba(0,0,0,0.4)' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  gradientOverlay = 'rgba(0,0,0,0.6),rgba(0,0,0,1.4)' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "/images/profile.jpg" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = ""
