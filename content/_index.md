@@ -24,10 +24,10 @@ You can find my **[Full CV](/misc/cv.pdf)** here, or head over to my **[blog](/p
 - *Sustainable computing practices* -->
 
 | Cloud | Entrepreneurship | Research and Writing |
-| :---:            | :---:                  |      :---:                           |
-| Consulting       | Financial Strategy     | Technical writing and product review
-| Sustainability   | Product Strategy       | Community ngagement and outreach
-| CICD             | Systems Architecture   |
+| :---:              | :---:                  |      :---:    |
+| Consulting         | Financial Strategy     | Technical writing
+| Programmable Infra | Product Strategy       | Product review
+| CI/CD              | Systems Architecture   | Community engagement and outreach
 
 ### Who I've worked with
 | | | | |
